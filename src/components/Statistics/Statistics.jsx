@@ -22,7 +22,7 @@ export const UploadInfo = ({ uploadInfo }) => {
 UploadInfo.propTypes = {
     uploadInfo: PropTypes.arrayOf(
         PropTypes.shape({
-            id: PropTypes.number.isRequired,
+            id: PropTypes.string.isRequired,
             label: PropTypes.string.isRequired,
             percentage: PropTypes.number.isRequired,
         })

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/css/main.51019851.css",
+    "main.js": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/js/main.e6a50dcc.js",
+    "index.html": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/index.html",
+    "main.51019851.css.map": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/css/main.51019851.css.map",
+    "main.e6a50dcc.js.map": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/js/main.e6a50dcc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.51019851.css",
+    "static/js/main.e6a50dcc.js"
   ]
 }

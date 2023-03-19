@@ -9,6 +9,7 @@ export const UploadInformationStyled = styled.div`
     margin-top: 20px;
     padding-top: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
 `;
 
 export const UploadInformationTitle = styled.h2`

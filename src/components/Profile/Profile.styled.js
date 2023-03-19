@@ -1,7 +1,10 @@
 import styled from "styled-components";
 
-export const UserStyled = styled.div`     
+export const UserStyled = styled.div`
+width: 300px;     
 margin: auto;
+padding-top: 30px;
+padding-bottom: 30px;
 text-align: center;
 `;
 

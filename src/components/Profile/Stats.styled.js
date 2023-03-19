@@ -1,10 +1,11 @@
 import styled from "styled-components";
 
 export const StatsStyled = styled.ul`
+width: 200px;
+margin: auto;
     display: flex;
     justify-content: space-between;
-    padding: 0;
-    margin: 0;
+    align-items: center;
     list-style: none;
      border: 1px solid #ccc;
 `;
@@ -14,7 +15,6 @@ export const StatsItem = styled.li`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100px;
     height: 100px;
     border-right: 1px solid #ccc;
     &:last-child {
@@ -25,7 +25,7 @@ export const StatsItem = styled.li`
 export const Label = styled.span`
     display: block;
     margin-bottom: 5px;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 600;
     color: #777;
 `;

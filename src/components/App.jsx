@@ -6,6 +6,8 @@ import dataInformation from "./Statistics/data.json";
 import { UploadInfo } from "./Statistics/UploadInformation";
 import friends from "./FriendList/FriendsCatalog.json";
 import { FriendsItems } from "./FriendList/Friends";
+import { TransactionHistory } from "./TransactionHistory/TransactionHistory";
+import transactions from "./TransactionHistory/transactions.json";
 
 
 
@@ -17,6 +19,7 @@ export const App = () => {
       <Stats stats={users.stats} />
       <UploadInfo uploadInfo={dataInformation}></UploadInfo>
       <FriendsItems friendsArray={friends} />
+      <TransactionHistory transactions={transactions} />
     </UserStyled>
     
   );

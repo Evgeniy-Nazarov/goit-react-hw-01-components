@@ -1,10 +1,11 @@
 import styled from "styled-components";
 
 export const Profile = styled.div`
+        width: 200px;
+        margin: auto;
         padding-top: 40px;
         padding-bottom: 40px;
         border: 1px solid #ccc;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 `;
 
 export const ProfileImage = styled.img`

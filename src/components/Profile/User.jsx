@@ -1,4 +1,5 @@
 import { Profile, ProfileImage, ProfileLocation, ProfileName, ProfileTag } from "./Profile.styled";
+import PropTypes from 'prop-types';
 
 export const User = ({ user: { username, tag, location, avatar } }) => {
     return (
@@ -10,3 +11,12 @@ export const User = ({ user: { username, tag, location, avatar } }) => {
         </Profile>
     );
 };
+
+User.propTypes = {
+    user: PropTypes.shape({
+        username: PropTypes.string.isRequired,
+        tag: PropTypes.string.isRequired,
+        location: PropTypes.string.isRequired,
+        avatar: PropTypes.string.isRequired,
+    })
+}

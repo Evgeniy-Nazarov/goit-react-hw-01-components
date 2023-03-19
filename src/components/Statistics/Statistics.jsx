@@ -1,4 +1,4 @@
-import { UploadInformationItem, UploadInformationLabel, UploadInformationList, UploadInformationQuantity, UploadInformationStyled, UploadInformationTitle } from "./UploadInformation.styled";
+import { UploadInformationItem, UploadInformationLabel, UploadInformationList, UploadInformationQuantity, UploadInformationStyled, UploadInformationTitle } from "./Statistics.styled";
 import PropTypes from 'prop-types';
 
 export const UploadInfo = ({ uploadInfo }) => {

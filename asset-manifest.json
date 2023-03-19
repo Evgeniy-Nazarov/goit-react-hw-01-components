@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/css/main.51019851.css",
-    "main.js": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/js/main.21ee632d.js",
+    "main.js": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/js/main.af702954.js",
     "index.html": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/index.html",
     "main.51019851.css.map": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/css/main.51019851.css.map",
-    "main.21ee632d.js.map": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/js/main.21ee632d.js.map"
+    "main.af702954.js.map": "/Evgeniy-Nazarov/goit-react-hw-01-components.git/static/js/main.af702954.js.map"
   },
   "entrypoints": [
     "static/css/main.51019851.css",
-    "static/js/main.21ee632d.js"
+    "static/js/main.af702954.js"
   ]
 }

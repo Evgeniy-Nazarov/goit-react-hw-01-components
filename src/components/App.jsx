@@ -15,7 +15,7 @@ export const App = () => {
   return (
     <UserStyled>
       <User user={users} />
-      <UploadInfo uploadInfo={dataInformation}></UploadInfo>
+      <UploadInfo uploadInfo={dataInformation} title="UPLOAD STATS"></UploadInfo>
       <FriendsItems friendsArray={friends} />
       <TransactionHistory transactions={transactions} />
     </UserStyled>
